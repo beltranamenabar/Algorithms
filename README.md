@@ -1,5 +1,5 @@
 # Algorithms and data structures
-Implementation of algorithms and data structures made by [me](github.com/beltranamenabar)
+Implementation of algorithms and data structures made by [me](https://github.com/beltranamenabar)
 
 ## Algorithms
 * [BFS](/Graphs/BFS.cpp)
